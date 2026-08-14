@@ -1,0 +1,22 @@
+# 构建产物
+migu-server
+migu-server.exe
+migu-video-ci
+migu-video-ci.exe
+*.test
+
+# 运行时生成文件
+interface.txt
+interfaceTXT.txt
+playback.xml
+*.bak
+
+# 编辑器/系统
+.DS_Store
+*.swp
+*.swo
+*~
+
+# 本地参考代码
+reference/
+docs/REWRITE_PLAN.md

@@ -1,0 +1,10 @@
+.git
+node_modules
+.workflow
+*.bak
+.github
+.gitignore
+*.md
+interface.txt
+interfaceTXT.txt
+playback.xml
